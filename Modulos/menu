@@ -62,7 +62,7 @@ fun_tst () {
 speedtest --share > speed
 }
 echo -e "\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "   \033[1;32mTESTANDO A VELOCIDADE DO SERVIDOR !\033[0m"
+echo -e "   \033[1;32m     TESTANDO A VELOCIDADE DO SERVIDOR !\033[0m"
 echo -e "\033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 aguarde 'fun_tst'
 echo ""
